@@ -1,2 +1,2 @@
-# ProjectsMk1
+# Projects mk1
 Personal Projects
